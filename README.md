@@ -23,4 +23,5 @@ Two issues with XGBoost:
 
 ## AutoGluon
 
-[AutoGluon](https://auto.gluon.ai/stable/index.html) is an open-source AutoML framework that requires only a single line of Python to train highly accurate machine learning models on an unprocessed tabular dataset such as a CSV file. [Paper](https://arxiv.org/abs/2003.06505)
+[AutoGluon](https://auto.gluon.ai/stable/index.html) is an open-source AutoML framework that requires only a single line of Python to train highly accurate machine learning models on an unprocessed tabular dataset such as a CSV file. [Paper](https://arxiv.org/abs/2003.06505) [AWS blog](https://aws.amazon.com/blogs/opensource/machine-learning-with-autogluon-an-open-source-automl-library/)
+
