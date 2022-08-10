@@ -20,3 +20,7 @@ A simple example of using XGboost on two standard datasets from sklearn. XGBoost
 Two issues with XGBoost:
 - unlike random forrest, it may not be easy to do parallel processing in case of very large distributed data.
 - many hyper-parameters.
+
+## AutoGluon
+
+[AutoGluon](https://auto.gluon.ai/stable/index.html) is an open-source AutoML framework that requires only a single line of Python to train highly accurate machine learning models on an unprocessed tabular dataset such as a CSV file. [Paper](https://arxiv.org/abs/2003.06505)
