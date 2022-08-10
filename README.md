@@ -28,3 +28,5 @@ It has the capability of using many different models and automatically stack and
 
 Dataset: [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
 
+This is a quick test of AutoGluon on Sagemake and did not spent too much time on feature selection and cleaning.
+
