@@ -30,3 +30,10 @@ Dataset: [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
 
 This is a quick test of AutoGluon on Sagemake and did not spent too much time on feature selection and cleaning.
 
+## LSTM model for non-linear regression
+A simple LSTM based model for non-linear regression is test on two datasets. The model is implemented with pytorch.
+- First data is [AirPassenger dataset](https://www.kaggle.com/datasets/rakannimer/air-passengers)
+- Second the model is test for prediction of non-linear motion in presense of noise.
+
+It seems this type of models could be a good alternative for traditional estimators such as Kalman Filters.
+
