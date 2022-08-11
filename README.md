@@ -36,4 +36,5 @@ A simple LSTM based model for non-linear regression is test on two datasets. The
 - Second the model is test for prediction of non-linear motion in presense of noise.
 
 It seems this type of models could be a good alternative for traditional estimators such as Kalman Filters.
+
 I found [this](https://github.com/MohammadFneish7/Keras_LSTM_Diagram) illustration for LSTM very cool. The explanation should not be confused when using torch for implementing LSTM as the term are different than Keras.
